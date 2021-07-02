@@ -2,3 +2,13 @@
   font-family: sans-serif;
   text-align: center;
 }
+.header {
+  background-color: greenyellow;
+  border-radius: 15px;
+}
+.header,
+h1 {
+  padding: 2px;
+  font-size: 10px;
+  margin: 5px;
+}

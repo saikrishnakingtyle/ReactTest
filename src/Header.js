@@ -2,7 +2,7 @@ import React from "react";
 
 function Heading() {
   return (
-    <div>
+    <div className="header">
       <h1> This is a heading </h1>
     </div>
   );
